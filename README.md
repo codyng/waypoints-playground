@@ -16,6 +16,8 @@ Moreover, they guy who made comments was not familiar with React and even create
 
 ***Feedback from LALAMOVE was like judging a book by its cover.***
 
+All their suggestions are picky. It is NOT to test whether the challengers are able to develop a workable demo with nice UI/UX, i.e. solve the problem. They concerned "**Washing your hands before eating**", but they didn't list out the rules of how you wash your hands.
+
 ## Problem of their APIs
 
 #### Inconsistent HTTP responses
