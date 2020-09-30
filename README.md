@@ -10,7 +10,7 @@ What they concerned, instead, was the fact how you set up the project and how yo
 
 It seems that they are seeking a perfect coder who is supposed to know their coding habits or styles.
 
-In my opinions, if you have experience on developing mobile Apps with React Native, there are tons of warnings from other 3rd libraries when you compile it. We can't handle all these warnings.
+In my opinions, if you have experience on developing mobile Apps with React Native, there are tons of warnings from other 3rd party libraries when you compile it.
 
 Moreover, they guy who made comments was not familiar with React and even create-react-app, and I didn't see any positive feedback towards the challenges.
 
